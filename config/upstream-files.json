@@ -1,0 +1,58 @@
+{
+  "scripts/playground/examples.py": {
+    "sha256": "2c1fb1bfd9503601dc01f97d54a77cae4980aab0056e7401e018e98ac9fc6bf2",
+    "bytes": 16650
+  },
+  "scripts/playground/server.py": {
+    "sha256": "2b2754a2e6804dfe5a3cf4486177ac727b6f6015d70de4b48fefcfb8cd22f388",
+    "bytes": 31680
+  },
+  "scripts/torch_decision.py": {
+    "sha256": "0ddbbb7d99689f72a659fd0e714db2563ba70fc1de63a3c1192b8b39c3949e58",
+    "bytes": 22872
+  },
+  "src/vision_decision/__init__.py": {
+    "sha256": "15ba56b7d399c1c1a12e86223809b61ad43c6294f755159e0e9c7aa439222d8e",
+    "bytes": 72
+  },
+  "src/vision_decision/backend.py": {
+    "sha256": "4aa5478d1a2c2e113cc607427d2b2fb42b67b31232c705af0d4ef1e39a45a7a9",
+    "bytes": 20142
+  },
+  "src/vision_decision/calibration.py": {
+    "sha256": "5d5a8b8b8d82bf351c109159cc576bcf5e3c1d8a2e8a744219abb2bec2e3b723",
+    "bytes": 17326
+  },
+  "src/vision_decision/cli.py": {
+    "sha256": "0f28c77af26f3ec2194fdec541d55ee309e47185fe5a869e75bfe1d407def91d",
+    "bytes": 5631
+  },
+  "src/vision_decision/contracts.py": {
+    "sha256": "3be5ac08aea0ab4cb72ebc97b19f37eee9123a886750faf9dd713f73542a1d3b",
+    "bytes": 5951
+  },
+  "src/vision_decision/gemma_backend.py": {
+    "sha256": "2f51e54f1ed4847ef5ff4e89d337bff14b0894044e78d7de4e89885c99490815",
+    "bytes": 3115
+  },
+  "src/vision_decision/images.py": {
+    "sha256": "412f5fbd9f6653766246fe8a17d14aeb921025fee9da43778e2161e2a78b68e0",
+    "bytes": 1317
+  },
+  "src/vision_decision/jev_api.py": {
+    "sha256": "55d8faa433a818f3c15612a68bdae41044c63a3bd37a0264d1673555f99e6123",
+    "bytes": 11734
+  },
+  "src/vision_decision/scoring.py": {
+    "sha256": "1cf0ac4b9a075f3ca7f0e0cbec9470d8dc26da8bbe4bec82154d80e1caa13ba1",
+    "bytes": 9922
+  },
+  "src/vision_decision/smolvlm_backend.py": {
+    "sha256": "9cadf9c2fcbaaf774226c875130f861e289f98f9c54e9227e1910dcca9036991",
+    "bytes": 3119
+  },
+  "src/vision_decision/thinking.py": {
+    "sha256": "23d35e908dda1c81756fbc0d413470bcbd68fb6f38486c4642fceaa5dd16ceba",
+    "bytes": 3337
+  }
+}

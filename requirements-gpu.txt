@@ -1,0 +1,15 @@
+# Installed/verified package versions for this experiment.
+# Install torch/torchvision with the matching CUDA wheel source before these.
+transformers==5.14.1
+peft==0.20.0
+accelerate==1.14.0
+safetensors==0.8.0
+pydantic==2.13.4
+pillow==12.3.0
+bitsandbytes==0.50.2
+fastapi==0.143.0
+starlette==1.7.0
+uvicorn==0.54.0
+python-multipart==0.0.32
+opentelemetry-api==1.45.1
+httpx==0.28.1
